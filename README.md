@@ -1,7 +1,7 @@
 # examplerepo
 This is an Open Source Project (Just for an example purpose)
 
-[Page](#page)
+[Page](wiki)
 
 
 # intro
